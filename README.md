@@ -208,8 +208,9 @@ long microsecondsToCentimeters(long microseconds) {
 <img height=20% width=30% src=https://github.com/BharathCSEIOT/Update-the-Ultrasonic-sensor-value-in-cloud/assets/122793480/42183406-57e6-4cfe-98c8-bc138a4f9d12>
 
 ## OUTPUT:
-<img height=40% width=60% src=https://github.com/BharathCSEIOT/Update-the-Ultrasonic-sensor-value-in-cloud/assets/122793480/16ad94fe-3112-4ed6-affd-71e5368368e6>
-<img height=40% width=60% src=https://github.com/BharathCSEIOT/Update-the-Ultrasonic-sensor-value-in-cloud/assets/122793480/0f41592e-78de-4b2f-9d39-3cf2e8171f87>
+![image](https://github.com/BharathCSEIOT/Update-the-Ultrasonic-sensor-value-in-cloud/assets/122793480/67ad55af-52e4-4da0-ab9f-68b6dc605ffa)
+
+![image](https://github.com/BharathCSEIOT/Update-the-Ultrasonic-sensor-value-in-cloud/assets/122793480/949ad214-0b3f-49d0-8d5c-b0f33eae1abb)
 
 ## RESULT:
 
